@@ -1,4 +1,4 @@
-const apiKey = "28a24a0b42e68fdfc02123c6c447c20e";
+const apiKey = "API-KEY";
 // https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=
 const cityInput = document.querySelector("#city-input");
 const searchBtn = document.querySelector("#search");
